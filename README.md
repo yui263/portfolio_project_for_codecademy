@@ -1,2 +1,1 @@
-# portfolio_project_for_codecademy
-Many files for a basic Portfolio webpage 
+That's a website with some explanations of my story and my work for increase my programmer capabilities with Codecademy.com!  
